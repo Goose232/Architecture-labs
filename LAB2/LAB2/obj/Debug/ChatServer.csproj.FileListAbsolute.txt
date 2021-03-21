@@ -1,0 +1,7 @@
+C:\Users\White\OneDrive\Рабочий стол\chat_serv_piaps\chatserv\obj\Debug\ChatServer.csprojAssemblyReference.cache
+C:\Users\White\OneDrive\Рабочий стол\chat_serv_piaps\chatserv\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\White\OneDrive\Рабочий стол\chat_serv_piaps\chatserv\bin\Debug\chatserv.exe.config
+C:\Users\White\OneDrive\Рабочий стол\chat_serv_piaps\chatserv\bin\Debug\chatserv.exe
+C:\Users\White\OneDrive\Рабочий стол\chat_serv_piaps\chatserv\bin\Debug\chatserv.pdb
+C:\Users\White\OneDrive\Рабочий стол\chat_serv_piaps\chatserv\obj\Debug\chatserv.exe
+C:\Users\White\OneDrive\Рабочий стол\chat_serv_piaps\chatserv\obj\Debug\chatserv.pdb
