@@ -16,7 +16,7 @@ namespace lab1
 
             Console.WriteLine(" 2");
             bool isCasual = false;   // переменная для проверки числа 
-            for (int i = 1; i < numberErat; ++i)  // Выбираем все числа до заданного 
+            for (int i = 1; i <= numberErat; ++i)  // Выбираем все числа до заданного 
             {
                 for (int j = i - 1; j >= 2; j--) // Перебираем все числа меньше заданного
                 {

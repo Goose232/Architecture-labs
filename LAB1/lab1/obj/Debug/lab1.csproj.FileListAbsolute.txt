@@ -12,3 +12,9 @@ C:\Users\Compucter\Desktop\arch\lab1\obj\Debug\lab1.csprojAssemblyReference.cach
 C:\Users\Compucter\Desktop\arch\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
 C:\Users\Compucter\Desktop\arch\lab1\obj\Debug\lab1.exe
 C:\Users\Compucter\Desktop\arch\lab1\obj\Debug\lab1.pdb
+C:\C# LABS\Architecture-labs\LAB1\lab1\bin\Debug\lab1.exe.config
+C:\C# LABS\Architecture-labs\LAB1\lab1\bin\Debug\lab1.exe
+C:\C# LABS\Architecture-labs\LAB1\lab1\bin\Debug\lab1.pdb
+C:\C# LABS\Architecture-labs\LAB1\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+C:\C# LABS\Architecture-labs\LAB1\lab1\obj\Debug\lab1.exe
+C:\C# LABS\Architecture-labs\LAB1\lab1\obj\Debug\lab1.pdb

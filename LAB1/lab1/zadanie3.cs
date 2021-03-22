@@ -21,7 +21,7 @@ namespace lab1
             Console.Write(vtor + " "); // вывод второго числа
             int sum = 0; // сумма чисел
 
-            while (number >= sum) // пока число больше суммы 
+            while (number > sum) // пока число больше суммы 
             {
                 sum = perv + vtor; // складываем первое и второе число
 
