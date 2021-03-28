@@ -17,10 +17,9 @@ namespace l3
        public static void func()
         {
            /* Console.Write("Введите свое имя: ");*/
-            
+           
             client = new TcpClient();
-            try
-            {
+            
                 client.Connect(host, port); //подключение клиента
                 stream = client.GetStream(); // получаем поток
 
@@ -32,63 +31,55 @@ namespace l3
                 Thread receiveThread = new Thread(new ThreadStart(ReceiveMessage));
                 receiveThread.Start(); //старт потока
                 /*Console.WriteLine("Добро пожаловать, {0}", userName);*/
-                SendMessage();
-            }
-            catch (Exception ex)
-            {
-              /*  Console.WriteLine(ex.Message);*/
-            }
-            finally
-            {
-                Disconnect();
-            }
+           
+           
+
         }
         // отправка сообщений
        public static void SendMessage()
         {
-           /* Console.WriteLine("Введите сообщение: ");*/
-
-            while (true)
-            {
-                message = "";
+        
                 byte[] data = Encoding.Unicode.GetBytes(message);
                 stream.Write(data, 0, data.Length);
-            }
+            
+
         }
         // получение сообщений
        public static void ReceiveMessage()
         {
-            while (true)
-            {
-                try
-                {
-                    byte[] data = new byte[64]; // буфер для получаемых данных
-                    StringBuilder builder = new StringBuilder();
-                    int bytes = 0;
-                    do
-                    {
-                        bytes = stream.Read(data, 0, data.Length);
-                        builder.Append(Encoding.Unicode.GetString(data, 0, bytes));
-                    }
-                    while (stream.DataAvailable);
 
+
+        while (stream.DataAvailable)
+            { 
+              try { 
+
+                byte[] data = new byte[64]; // буфер для получаемых данных
+                        StringBuilder builder = new StringBuilder();
+                        int bytes = 0;
+                
+                        do
+                        {
+                            bytes = stream.Read(data, 0, data.Length);
+                            builder.Append(Encoding.Unicode.GetString(data, 0, bytes));
+                        }
+                        while (stream.DataAvailable);
+                    
                     message = builder.ToString();
                     /*Console.WriteLine(message);*///вывод сообщения
                 }
                 catch
                 {
-                    Console.WriteLine("Подключение прервано!"); //соединение было прервано
-                    Console.ReadLine();
-                    Disconnect();
+                    message = "fail";
                 }
             }
+
+
         }
 
-        static void Disconnect()
+       public static void Disconnect()
         {
-            if (stream != null)
+                
                 stream.Close();//отключение потока
-            if (client != null)
                 client.Close();//отключение клиента
             Environment.Exit(0); //завершение процесса
         }

@@ -7,3 +7,14 @@ C:\C# LABS\Architecture-labs\LAB3\l3\bin\Debug\l3.exe
 C:\C# LABS\Architecture-labs\LAB3\l3\bin\Debug\l3.pdb
 C:\C# LABS\Architecture-labs\LAB3\l3\obj\Debug\l3.exe
 C:\C# LABS\Architecture-labs\LAB3\l3\obj\Debug\l3.pdb
+D:\GitHub\Architecture-labs\LAB3\l3\bin\Debug\l3.exe.config
+D:\GitHub\Architecture-labs\LAB3\l3\bin\Debug\l3.exe
+D:\GitHub\Architecture-labs\LAB3\l3\bin\Debug\l3.pdb
+D:\GitHub\Architecture-labs\LAB3\l3\obj\Debug\l3.csprojAssemblyReference.cache
+D:\GitHub\Architecture-labs\LAB3\l3\obj\Debug\l3.Form1.resources
+D:\GitHub\Architecture-labs\LAB3\l3\obj\Debug\l3.Form2.resources
+D:\GitHub\Architecture-labs\LAB3\l3\obj\Debug\l3.Properties.Resources.resources
+D:\GitHub\Architecture-labs\LAB3\l3\obj\Debug\l3.csproj.GenerateResource.cache
+D:\GitHub\Architecture-labs\LAB3\l3\obj\Debug\l3.csproj.CoreCompileInputs.cache
+D:\GitHub\Architecture-labs\LAB3\l3\obj\Debug\l3.exe
+D:\GitHub\Architecture-labs\LAB3\l3\obj\Debug\l3.pdb

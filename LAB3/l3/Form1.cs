@@ -22,7 +22,7 @@ namespace l3
         private void button1_Click(object sender, EventArgs e)
         {
             ChatClient.userName = textBox3.Text;
-            /*ChatClient.func();*/
+           ChatClient.func();
             
             Form2 f = new Form2();
             f.Show();
@@ -38,7 +38,7 @@ namespace l3
 
         public void textBox3_TextChanged(object sender, EventArgs e)
         {
-            
+           
         }
 
      
@@ -46,6 +46,11 @@ namespace l3
         private void Form1_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }

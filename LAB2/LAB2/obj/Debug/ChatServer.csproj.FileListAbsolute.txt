@@ -5,3 +5,10 @@ C:\Users\White\OneDrive\Рабочий стол\chat_serv_piaps\chatserv\bin\Deb
 C:\Users\White\OneDrive\Рабочий стол\chat_serv_piaps\chatserv\bin\Debug\chatserv.pdb
 C:\Users\White\OneDrive\Рабочий стол\chat_serv_piaps\chatserv\obj\Debug\chatserv.exe
 C:\Users\White\OneDrive\Рабочий стол\chat_serv_piaps\chatserv\obj\Debug\chatserv.pdb
+D:\GitHub\Architecture-labs\LAB2\LAB2\bin\Debug\chatserv.exe.config
+D:\GitHub\Architecture-labs\LAB2\LAB2\bin\Debug\chatserv.exe
+D:\GitHub\Architecture-labs\LAB2\LAB2\bin\Debug\chatserv.pdb
+D:\GitHub\Architecture-labs\LAB2\LAB2\obj\Debug\ChatServer.csprojAssemblyReference.cache
+D:\GitHub\Architecture-labs\LAB2\LAB2\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+D:\GitHub\Architecture-labs\LAB2\LAB2\obj\Debug\chatserv.exe
+D:\GitHub\Architecture-labs\LAB2\LAB2\obj\Debug\chatserv.pdb
