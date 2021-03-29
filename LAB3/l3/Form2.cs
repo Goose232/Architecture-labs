@@ -12,23 +12,28 @@ namespace l3
 {
     public partial class Form2 : Form
     {
-       
+        
         public Form2()
         {
             InitializeComponent();
 
             Thread x = new Thread(Msd);
             x.Start();
-            
         }
-       
+
         private void Msd()
         {
+            
             while (true)
             {
+
                 ChatClient.ReceiveMessage();
-                richTextBox1.Text = ChatClient.message;
+
+
+                richTextBox1.AppendText(ChatClient.message + Environment.NewLine);
+               
             }
+
         }
 
         
@@ -45,17 +50,21 @@ namespace l3
 
         private void button1_Click(object sender, EventArgs e)
         {
-            ChatClient.message = textBox3.Text;
-            ChatClient.SendMessage();
-            textBox3.Clear();
+
 
             
-
+            ChatClient.message = textBox3.Text;
+            if (ChatClient.message!="")
+            ChatClient.SendMessage();
+            richTextBox1.Text += "Вы: "+ChatClient.message + Environment.NewLine;
+            textBox3.Clear();
+                            
+            
         }
 
         private void richTextBox1_TextChanged(object sender, EventArgs e)
         {
-        
+          
          
         }
 
@@ -63,7 +72,7 @@ namespace l3
 
         private void Form2_Load(object sender, EventArgs e)
         {
-          
+            richTextBox1.Text = ChatClient.message;
         }
 
         
@@ -76,11 +85,12 @@ namespace l3
 
         private void Form2_FormClosed(object sender, FormClosedEventArgs e)
         {
-          
+        
         }
 
         private void Form2_FormClosing(object sender, FormClosingEventArgs e)
         {
+         
             ChatClient.Disconnect();
             Application.Exit();
         }

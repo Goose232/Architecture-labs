@@ -11,7 +11,7 @@ namespace l3
         private const string host = "127.0.0.1";
         private const int port = 8888;
         static TcpClient client;
-        static NetworkStream stream;
+        public static NetworkStream stream;
         public static string message;
 
        public static void func()
@@ -49,10 +49,6 @@ namespace l3
         {
 
 
-        while (stream.DataAvailable)
-            { 
-              try { 
-
                 byte[] data = new byte[64]; // буфер для получаемых данных
                         StringBuilder builder = new StringBuilder();
                         int bytes = 0;
@@ -61,26 +57,21 @@ namespace l3
                         {
                             bytes = stream.Read(data, 0, data.Length);
                             builder.Append(Encoding.Unicode.GetString(data, 0, bytes));
+
                         }
                         while (stream.DataAvailable);
                     
                     message = builder.ToString();
-                    /*Console.WriteLine(message);*///вывод сообщения
-                }
-                catch
-                {
-                    message = "fail";
-                }
-            }
 
+                    
+                    /*Console.WriteLine(message);*///вывод сообщения
+               
+            
 
         }
 
        public static void Disconnect()
         {
-                
-                stream.Close();//отключение потока
-                client.Close();//отключение клиента
             Environment.Exit(0); //завершение процесса
         }
     }
