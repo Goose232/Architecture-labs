@@ -79,8 +79,7 @@ namespace l3
 
         private void button2_Click(object sender, EventArgs e)
         {
-            /*ChatClient.Disconnect();
-            Application.Exit();*/
+           
         }
 
         private void Form2_FormClosed(object sender, FormClosedEventArgs e)
