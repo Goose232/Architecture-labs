@@ -27,16 +27,16 @@ namespace l3
                 byte[] data = Encoding.Unicode.GetBytes(message);
                 stream.Write(data, 0, data.Length);
 
-                // запускаем новый поток для получения данных
-                Thread receiveThread = new Thread(new ThreadStart(ReceiveMessage));
-                receiveThread.Start(); //старт потока
-                /*Console.WriteLine("Добро пожаловать, {0}", userName);*/
-           
-           
+            // запускаем новый поток для получения данных
+            /* Thread receiveThread = new Thread(new ThreadStart(ReceiveMessage));
+             receiveThread.Start(); //старт потока 
+             /*Console.WriteLine("Добро пожаловать, {0}", userName);*/
+
+
 
         }
         // отправка сообщений
-       public static void SendMessage()
+        public static void SendMessage()
         {
         
                 byte[] data = Encoding.Unicode.GetBytes(message);

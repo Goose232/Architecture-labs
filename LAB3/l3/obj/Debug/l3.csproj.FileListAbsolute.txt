@@ -19,3 +19,14 @@ D:\GitHub\Architecture-labs\LAB3\l3\obj\Debug\l3.csproj.CoreCompileInputs.cache
 D:\GitHub\Architecture-labs\LAB3\l3\obj\Debug\l3.exe
 D:\GitHub\Architecture-labs\LAB3\l3\obj\Debug\l3.pdb
 C:\C# LABS\Architecture-labs\LAB3\l3\obj\Debug\l3.Form2.resources
+C:\Users\White\OneDrive\Рабочий стол\LAB3\l3\bin\Debug\l3.exe.config
+C:\Users\White\OneDrive\Рабочий стол\LAB3\l3\bin\Debug\l3.exe
+C:\Users\White\OneDrive\Рабочий стол\LAB3\l3\bin\Debug\l3.pdb
+C:\Users\White\OneDrive\Рабочий стол\LAB3\l3\obj\Debug\l3.csprojAssemblyReference.cache
+C:\Users\White\OneDrive\Рабочий стол\LAB3\l3\obj\Debug\l3.Form1.resources
+C:\Users\White\OneDrive\Рабочий стол\LAB3\l3\obj\Debug\l3.Form2.resources
+C:\Users\White\OneDrive\Рабочий стол\LAB3\l3\obj\Debug\l3.Properties.Resources.resources
+C:\Users\White\OneDrive\Рабочий стол\LAB3\l3\obj\Debug\l3.csproj.GenerateResource.cache
+C:\Users\White\OneDrive\Рабочий стол\LAB3\l3\obj\Debug\l3.csproj.CoreCompileInputs.cache
+C:\Users\White\OneDrive\Рабочий стол\LAB3\l3\obj\Debug\l3.exe
+C:\Users\White\OneDrive\Рабочий стол\LAB3\l3\obj\Debug\l3.pdb
