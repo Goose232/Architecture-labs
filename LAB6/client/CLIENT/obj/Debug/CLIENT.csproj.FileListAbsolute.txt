@@ -1,0 +1,30 @@
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6\CLIENT\CLIENT\bin\Debug\CLIENT.exe.config
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6\CLIENT\CLIENT\bin\Debug\CLIENT.exe
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6\CLIENT\CLIENT\bin\Debug\CLIENT.pdb
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6\CLIENT\CLIENT\obj\Debug\CLIENT.csprojAssemblyReference.cache
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6\CLIENT\CLIENT\obj\Debug\CLIENT.Form1.resources
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6\CLIENT\CLIENT\obj\Debug\CLIENT.Properties.Resources.resources
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.GenerateResource.cache
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6\CLIENT\CLIENT\obj\Debug\CLIENT.exe
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6\CLIENT\CLIENT\obj\Debug\CLIENT.pdb
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6_!\CLIENT\CLIENT\bin\Debug\CLIENT.exe.config
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6_!\CLIENT\CLIENT\bin\Debug\CLIENT.exe
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6_!\CLIENT\CLIENT\bin\Debug\CLIENT.pdb
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6_!\CLIENT\CLIENT\obj\Debug\CLIENT.csprojAssemblyReference.cache
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6_!\CLIENT\CLIENT\obj\Debug\CLIENT.Form1.resources
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6_!\CLIENT\CLIENT\obj\Debug\CLIENT.Properties.Resources.resources
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6_!\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.GenerateResource.cache
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6_!\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6_!\CLIENT\CLIENT\obj\Debug\CLIENT.exe
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6_!\CLIENT\CLIENT\obj\Debug\CLIENT.pdb
+C:\Users\White\OneDrive\Рабочий стол\LA 6\CLIENT\CLIENT\obj\Debug\CLIENT.csprojAssemblyReference.cache
+C:\Users\White\OneDrive\Рабочий стол\LA 6\CLIENT\CLIENT\obj\Debug\CLIENT.Form1.resources
+C:\Users\White\OneDrive\Рабочий стол\LA 6\CLIENT\CLIENT\obj\Debug\CLIENT.Properties.Resources.resources
+C:\Users\White\OneDrive\Рабочий стол\LA 6\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.GenerateResource.cache
+C:\Users\White\OneDrive\Рабочий стол\LA 6\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\White\OneDrive\Рабочий стол\LA 6\CLIENT\CLIENT\obj\Debug\CLIENT.exe
+C:\Users\White\OneDrive\Рабочий стол\LA 6\CLIENT\CLIENT\obj\Debug\CLIENT.pdb
+C:\Users\White\OneDrive\Рабочий стол\LA 6\CLIENT\CLIENT\bin\Debug\CLIENT.exe.config
+C:\Users\White\OneDrive\Рабочий стол\LA 6\CLIENT\CLIENT\bin\Debug\CLIENT.exe
+C:\Users\White\OneDrive\Рабочий стол\LA 6\CLIENT\CLIENT\bin\Debug\CLIENT.pdb

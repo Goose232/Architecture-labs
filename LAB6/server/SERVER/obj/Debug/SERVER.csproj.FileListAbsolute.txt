@@ -1,0 +1,35 @@
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6\SERVER\SERVER\bin\SERVER.dll.config
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6\SERVER\SERVER\bin\SERVER.dll
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6\SERVER\SERVER\bin\SERVER.pdb
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6\SERVER\SERVER\obj\Debug\SERVER.csprojAssemblyReference.cache
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6\SERVER\SERVER\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6\SERVER\SERVER\obj\Debug\SERVER.dll
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6\SERVER\SERVER\obj\Debug\SERVER.pdb
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6_!\SERVER\SERVER\bin\SERVER.dll.config
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6_!\SERVER\SERVER\bin\SERVER.dll
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6_!\SERVER\SERVER\bin\SERVER.pdb
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6_!\SERVER\SERVER\obj\Debug\SERVER.csprojAssemblyReference.cache
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6_!\SERVER\SERVER\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6_!\SERVER\SERVER\obj\Debug\SERVER.dll
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6_!\SERVER\SERVER\obj\Debug\SERVER.pdb
+D:\проектирование и архитектура программных систем\№6\SERVER\SERVER\bin\SERVER.dll.config
+D:\проектирование и архитектура программных систем\№6\SERVER\SERVER\bin\SERVER.dll
+D:\проектирование и архитектура программных систем\№6\SERVER\SERVER\bin\SERVER.pdb
+D:\проектирование и архитектура программных систем\№6\SERVER\SERVER\obj\Debug\SERVER.csprojAssemblyReference.cache
+D:\проектирование и архитектура программных систем\№6\SERVER\SERVER\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+D:\проектирование и архитектура программных систем\№6\SERVER\SERVER\obj\Debug\SERVER.dll
+D:\проектирование и архитектура программных систем\№6\SERVER\SERVER\obj\Debug\SERVER.pdb
+C:\Users\White\OneDrive\Рабочий стол\LABA 6\SERVER\SERVER\obj\Debug\SERVER.csprojAssemblyReference.cache
+C:\Users\White\OneDrive\Рабочий стол\LABA 6\SERVER\SERVER\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\White\OneDrive\Рабочий стол\LABA 6\SERVER\SERVER\obj\Debug\SERVER.dll
+C:\Users\White\OneDrive\Рабочий стол\LABA 6\SERVER\SERVER\obj\Debug\SERVER.pdb
+C:\Users\White\OneDrive\Рабочий стол\LABA 6\SERVER\SERVER\bin\SERVER.dll.config
+C:\Users\White\OneDrive\Рабочий стол\LABA 6\SERVER\SERVER\bin\SERVER.dll
+C:\Users\White\OneDrive\Рабочий стол\LABA 6\SERVER\SERVER\bin\SERVER.pdb
+C:\Users\White\OneDrive\Рабочий стол\LA 6\SERVER\SERVER\bin\SERVER.dll.config
+C:\Users\White\OneDrive\Рабочий стол\LA 6\SERVER\SERVER\bin\SERVER.dll
+C:\Users\White\OneDrive\Рабочий стол\LA 6\SERVER\SERVER\bin\SERVER.pdb
+C:\Users\White\OneDrive\Рабочий стол\LA 6\SERVER\SERVER\obj\Debug\SERVER.csprojAssemblyReference.cache
+C:\Users\White\OneDrive\Рабочий стол\LA 6\SERVER\SERVER\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\White\OneDrive\Рабочий стол\LA 6\SERVER\SERVER\obj\Debug\SERVER.dll
+C:\Users\White\OneDrive\Рабочий стол\LA 6\SERVER\SERVER\obj\Debug\SERVER.pdb
