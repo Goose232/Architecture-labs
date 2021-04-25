@@ -1,0 +1,43 @@
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№7\LABA7\LABA7\bin\Debug\LABA7.exe.config
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№7\LABA7\LABA7\bin\Debug\LABA7.exe
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№7\LABA7\LABA7\bin\Debug\LABA7.pdb
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№7\LABA7\LABA7\obj\Debug\LABA7.csprojAssemblyReference.cache
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№7\LABA7\LABA7\obj\Debug\LABA7.Form1.resources
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№7\LABA7\LABA7\obj\Debug\LABA7.Properties.Resources.resources
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№7\LABA7\LABA7\obj\Debug\LABA7.csproj.GenerateResource.cache
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№7\LABA7\LABA7\obj\Debug\LABA7.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№7\LABA7\LABA7\obj\Debug\LABA7.exe
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№7\LABA7\LABA7\obj\Debug\LABA7.pdb
+D:\проектирование и архитектура программных систем\№7\LABA7\LABA7\obj\Debug\LABA7.csprojAssemblyReference.cache
+D:\проектирование и архитектура программных систем\№7\LABA7\LABA7\obj\Debug\LABA7.Form1.resources
+D:\проектирование и архитектура программных систем\№7\LABA7\LABA7\obj\Debug\LABA7.Properties.Resources.resources
+D:\проектирование и архитектура программных систем\№7\LABA7\LABA7\obj\Debug\LABA7.csproj.GenerateResource.cache
+D:\проектирование и архитектура программных систем\№7\LABA7\LABA7\obj\Debug\LABA7.csproj.CoreCompileInputs.cache
+D:\проектирование и архитектура программных систем\№7\LABA7\LABA7\obj\Debug\LABA7.exe
+D:\проектирование и архитектура программных систем\№7\LABA7\LABA7\obj\Debug\LABA7.pdb
+D:\проектирование и архитектура программных систем\№7\LABA7\LABA7\bin\Debug\LABA7.exe.config
+D:\проектирование и архитектура программных систем\№7\LABA7\LABA7\bin\Debug\LABA7.exe
+D:\проектирование и архитектура программных систем\№7\LABA7\LABA7\bin\Debug\LABA7.pdb
+D:\проектирование и архитектура программных систем\№7\LABA7\LABA7\obj\Debug\LABA7.csproj.ResolveComReference.cache
+D:\GIT\PIAPS_Laboratory\LABA 7\LABA7\bin\Debug\LABA7.exe.config
+D:\GIT\PIAPS_Laboratory\LABA 7\LABA7\bin\Debug\LABA7.exe
+D:\GIT\PIAPS_Laboratory\LABA 7\LABA7\bin\Debug\LABA7.pdb
+D:\GIT\PIAPS_Laboratory\LABA 7\LABA7\obj\Debug\LABA7.csprojAssemblyReference.cache
+D:\GIT\PIAPS_Laboratory\LABA 7\LABA7\obj\Debug\LABA7.csproj.ResolveComReference.cache
+D:\GIT\PIAPS_Laboratory\LABA 7\LABA7\obj\Debug\LABA7.Form1.resources
+D:\GIT\PIAPS_Laboratory\LABA 7\LABA7\obj\Debug\LABA7.Properties.Resources.resources
+D:\GIT\PIAPS_Laboratory\LABA 7\LABA7\obj\Debug\LABA7.csproj.GenerateResource.cache
+D:\GIT\PIAPS_Laboratory\LABA 7\LABA7\obj\Debug\LABA7.csproj.CoreCompileInputs.cache
+D:\GIT\PIAPS_Laboratory\LABA 7\LABA7\obj\Debug\LABA7.exe
+D:\GIT\PIAPS_Laboratory\LABA 7\LABA7\obj\Debug\LABA7.pdb
+C:\Users\White\OneDrive\Рабочий стол\LABA 7\LABA7\bin\Debug\LABA7.exe.config
+C:\Users\White\OneDrive\Рабочий стол\LABA 7\LABA7\bin\Debug\LABA7.exe
+C:\Users\White\OneDrive\Рабочий стол\LABA 7\LABA7\bin\Debug\LABA7.pdb
+C:\Users\White\OneDrive\Рабочий стол\LABA 7\LABA7\obj\Debug\LABA7.csprojAssemblyReference.cache
+C:\Users\White\OneDrive\Рабочий стол\LABA 7\LABA7\obj\Debug\LABA7.csproj.ResolveComReference.cache
+C:\Users\White\OneDrive\Рабочий стол\LABA 7\LABA7\obj\Debug\LABA7.Form1.resources
+C:\Users\White\OneDrive\Рабочий стол\LABA 7\LABA7\obj\Debug\LABA7.Properties.Resources.resources
+C:\Users\White\OneDrive\Рабочий стол\LABA 7\LABA7\obj\Debug\LABA7.csproj.GenerateResource.cache
+C:\Users\White\OneDrive\Рабочий стол\LABA 7\LABA7\obj\Debug\LABA7.csproj.CoreCompileInputs.cache
+C:\Users\White\OneDrive\Рабочий стол\LABA 7\LABA7\obj\Debug\LABA7.exe
+C:\Users\White\OneDrive\Рабочий стол\LABA 7\LABA7\obj\Debug\LABA7.pdb

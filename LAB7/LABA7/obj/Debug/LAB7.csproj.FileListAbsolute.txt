@@ -1,0 +1,22 @@
+C:\Users\White\OneDrive\Рабочий стол\LABA 7\LABA7\bin\Debug\LABA7.exe.config
+C:\Users\White\OneDrive\Рабочий стол\LABA 7\LABA7\bin\Debug\LABA7.exe
+C:\Users\White\OneDrive\Рабочий стол\LABA 7\LABA7\bin\Debug\LABA7.pdb
+C:\Users\White\OneDrive\Рабочий стол\LABA 7\LABA7\obj\Debug\LAB7.csprojAssemblyReference.cache
+C:\Users\White\OneDrive\Рабочий стол\LABA 7\LABA7\obj\Debug\LAB7.csproj.ResolveComReference.cache
+C:\Users\White\OneDrive\Рабочий стол\LABA 7\LABA7\obj\Debug\LABA7.Properties.Resources.resources
+C:\Users\White\OneDrive\Рабочий стол\LABA 7\LABA7\obj\Debug\LAB7.csproj.GenerateResource.cache
+C:\Users\White\OneDrive\Рабочий стол\LABA 7\LABA7\obj\Debug\LAB7.csproj.CoreCompileInputs.cache
+C:\Users\White\OneDrive\Рабочий стол\LABA 7\LABA7\obj\Debug\LABA7.exe
+C:\Users\White\OneDrive\Рабочий стол\LABA 7\LABA7\obj\Debug\LABA7.pdb
+C:\Users\White\OneDrive\Рабочий стол\LABA 7\LABA7\obj\Debug\LAB7.Form1.resources
+C:\Users\White\OneDrive\Рабочий стол\LAB7\LABA7\bin\Debug\LABA7.exe.config
+C:\Users\White\OneDrive\Рабочий стол\LAB7\LABA7\bin\Debug\LABA7.exe
+C:\Users\White\OneDrive\Рабочий стол\LAB7\LABA7\bin\Debug\LABA7.pdb
+C:\Users\White\OneDrive\Рабочий стол\LAB7\LABA7\obj\Debug\LAB7.csproj.ResolveComReference.cache
+C:\Users\White\OneDrive\Рабочий стол\LAB7\LABA7\obj\Debug\LAB7.Form1.resources
+C:\Users\White\OneDrive\Рабочий стол\LAB7\LABA7\obj\Debug\LABA7.Properties.Resources.resources
+C:\Users\White\OneDrive\Рабочий стол\LAB7\LABA7\obj\Debug\LAB7.csproj.GenerateResource.cache
+C:\Users\White\OneDrive\Рабочий стол\LAB7\LABA7\obj\Debug\LAB7.csproj.CoreCompileInputs.cache
+C:\Users\White\OneDrive\Рабочий стол\LAB7\LABA7\obj\Debug\LABA7.exe
+C:\Users\White\OneDrive\Рабочий стол\LAB7\LABA7\obj\Debug\LABA7.pdb
+C:\Users\White\OneDrive\Рабочий стол\LAB7\LABA7\obj\Debug\LAB7.csprojAssemblyReference.cache

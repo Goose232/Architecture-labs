@@ -1,0 +1,6 @@
+C:\Users\White\OneDrive\Рабочий стол\l8\MyCom\bin\Debug\MyCom.dll
+C:\Users\White\OneDrive\Рабочий стол\l8\MyCom\bin\Debug\MyCom.pdb
+C:\Users\White\OneDrive\Рабочий стол\l8\MyCom\obj\Debug\MyCom.csprojAssemblyReference.cache
+C:\Users\White\OneDrive\Рабочий стол\l8\MyCom\obj\Debug\MyCom.csproj.CoreCompileInputs.cache
+C:\Users\White\OneDrive\Рабочий стол\l8\MyCom\obj\Debug\MyCom.dll
+C:\Users\White\OneDrive\Рабочий стол\l8\MyCom\obj\Debug\MyCom.pdb
