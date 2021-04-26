@@ -35,6 +35,23 @@ namespace Client
             }
         }
 
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_PreviewKeyDown(object sender, PreviewKeyDownEventArgs e)
+        {
+          
+        }
+
+        private void textBox1_KeyUp(object sender, KeyEventArgs e)
+        {
+       
+        }
+
+       
+
         private void button1_Click(object sender, EventArgs e)
         {
             if ((textBox1.Text == "") || (textBox2.Text == ""))
@@ -51,7 +68,7 @@ namespace Client
 
         private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if (Char.IsLetter(e.KeyChar)) e.Handled = true;
+            if (Char.IsLetter(e.KeyChar) || (e.KeyChar >= 33 && e.KeyChar <= 44 || (e.KeyChar>=46 && e.KeyChar <= 47) || (e.KeyChar >= 58 && e.KeyChar <= 64) || (e.KeyChar >= 91 && e.KeyChar <= 96) || (e.KeyChar >= 123 && e.KeyChar <= 127) || (e.KeyChar == 22))) e.Handled = true;
             else
                 return;
         }

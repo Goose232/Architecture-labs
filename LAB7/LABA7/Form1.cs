@@ -96,9 +96,7 @@ namespace LAB7
             str.Range.Text = $"\n\n\n\n\nОрел, {mctext}";
             str = objdoc.Paragraphs.Add();
             process(str);
-            objdoc.SaveAs("C:/sss/PIAPS7.docx");
-            objdoc.Close();
-            myword.Quit();
+          
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
